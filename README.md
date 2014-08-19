@@ -1,4 +1,4 @@
 TheLiarsDiceAI
 ==============
 
-MCTS based AI for The Liar's DIce game
+MCTS based AI for The Liar's Dice game
